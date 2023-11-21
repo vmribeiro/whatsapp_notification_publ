@@ -1,1 +1,2 @@
-# whatsapp_notification_publ
+# nubank_whatsapp_notification
+Whatsapp notification from Nubank (brazilian bank)
